@@ -1,12 +1,18 @@
-### Olá, Eu sou o Marcos Vinicius (Hi, I'm Marcos Vinicius) 👋
+## Olá, Eu sou o Marcos Vinicius (Hi, I'm Marcos Vinicius) 👋
 
-- 🔭 Trabalho como Programador na Itarget Tecnologia
-- 🌱 Me aprimorando em HTML5,CSS3 e Javascript
+### Current Stack 
+- Main Language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `HTML5` , `CSS3` , `Javascript`
+- Layout Design: `Figma`
+- Version code control: `Git` , `GitHub`
+- Tools: `VsCode` , `MarkDown`
+##
 
-<div align="center">
+<div>
   <a href="https://github.com/MarcosBatistaSouza">
-  <img width="600vw" height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcosBatistaSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="600vw" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBatistaSouza&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcosBatistaSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBatistaSouza&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
