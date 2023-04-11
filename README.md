@@ -9,9 +9,7 @@
 - Tools: `VsCode` , `MarkDown`
 ##
 
-<div>
-  <a href="https://github.com/MarcosBatistaSouza">
-  <img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcosBatistaSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<div style="allign:center">
   <img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBatistaSouza&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
