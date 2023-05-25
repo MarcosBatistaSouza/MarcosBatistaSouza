@@ -4,6 +4,7 @@
 - Main Language: `Javascript`
 - Backend: `Nodejs`
 - Frontend: `HTML5` , `CSS3` , `Javascript`
+- Desktop: `Delphi`
 - Layout Design: `Figma`
 - Version code control: `Git` , `GitHub`
 - Tools: `VsCode` , `MarkDown`
